@@ -49,7 +49,7 @@ Formulario interactivo, tabla dinámica y persistencia con cookies.
 
 ## Dónde encontrarme
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aurora_Ávila-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aurora-%C3%A1vila-izquierdo-9619212b9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aurora_Ávila-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aurora-avila-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-auroraaviz-181717?style=flat&logo=github)](https://github.com/auroraaviz)
 [![Email](https://img.shields.io/badge/Email-auroraavilaizquierdo@gmail.com-D14836?style=flat&logo=gmail)](mailto:auroraavilaizquierdo@gmail.com)
 
