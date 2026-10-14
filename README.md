@@ -29,7 +29,15 @@ Aplicación web fullstack desarrollada en equipo durante las prácticas en Zaite
 Incluye catálogo de paquetes turísticos con filtros dinámicos, reservas, pasarela de pago,
 generación de facturas PDF, panel de administración completo y sistema de experiencias y reseñas.
 **Stack:** PHP · MySQL · JavaScript · Bootstrap 5 · Fetch API
-→ [Ver repositorio](https://github.com/auroraaviz/turistea-agencia-viajes)
+→ [Ver repositorio](https://github.com/auroraaviz/turistea-agencia-viajes) · [Demo en vivo](https://turistea.infinityfreeapp.com/index.html?i=1)
+
+### 🌿 Senda — Organizador de proyectos académicos
+
+Aplicación web fullstack desplegada en producción para organizar proyectos por fases.
+Autenticación con JWT en cookies `httpOnly`, progreso general calculado con el peso de cada fase
+y estado automático del proyecto (planificado, en curso, completado o retrasado).
+**Stack:** Java · Spring Boot · Spring Security · MySQL · Next.js · TypeScript · Tailwind CSS
+→ [Ver repositorio](https://github.com/auroraaviz/senda) · [Demo en vivo](https://senda-chi.vercel.app)
 
 ### 📋 Tareando — Gestor de tareas fullstack
 
