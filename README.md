@@ -46,13 +46,6 @@ CRUD completo de tareas con persistencia en base de datos.
 **Stack:** Java · Spring Boot · MySQL · JavaScript
 → [Ver repositorio](https://github.com/auroraaviz/tareando)
 
-### 🦷 DavanteDent — Gestión de citas
-
-Aplicación cliente para gestión de citas de una clínica dental ficticia.
-Formulario interactivo, tabla dinámica y persistencia con cookies.
-**Stack:** HTML · CSS · JavaScript (Vanilla)
-→ [Ver repositorio](https://github.com/auroraaviz/DavanteDent---Gesti-n-de-citas) · [Demo en vivo](https://auroraaviz.github.io/DavanteDent---Gesti-n-de-citas/)
-
 ---
 
 ## Dónde encontrarme
